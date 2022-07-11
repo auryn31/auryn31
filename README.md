@@ -5,9 +5,11 @@
 
 ## 📕 Latest Blog Posts
 
-- [Why I Remove Google Analytics](https://blog.auryn.dev/posts/why-i-remove-google-analytics/)
+- [Generative Art](https://blog.auryn.dev/posts/generative-art/)
+- [An Elm Compliments DApp with Gun.js](https://blog.auryn.dev/posts/elm-dapp-gun-js/)
+- [Elm AWS Cognito Login/Register Template with TypeScript](https://blog.auryn.dev/posts/elm-aws-cognito-template/)
+- [Why I love Elm](https://blog.auryn.dev/posts/starting-with-elm/)
 - [Yahoo Kotlin API on AWS](https://blog.auryn.dev/posts/kotlin-yahoo-api/)
-- [React and UI5 Web Components](https://blog.auryn.dev/posts/react-ui5-web-components/)
 - [Stock Cli Tracker with Nodejs and Yahoo Finance](https://blog.auryn.dev/posts/stock-cli-tracker/)
 
 ➡️ [more blog posts...](https://blog.auryn.dev)
