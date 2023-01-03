@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=blog.auryn.dev&style=for-the-badge&url=https%3A%2F%2Fblog.auryn.dev)](https://blog.auryn.dev)
 [![Website](https://img.shields.io/website?label=compliments.dapp.auryn.dev&style=for-the-badge&url=https%3A%2F%2Fcompliments.dapp.auryn.dev)](https://compliments.dapp.auryn.dev)
-[![Website](https://img.shields.io/website?label=aurynengel.com&style=for-the-badge&url=https%3A%2F%2Faurynengel.com)](https://aurynengel.com)
+
 
 ## 📕 Latest Blog Posts
 
