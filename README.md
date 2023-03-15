@@ -6,6 +6,8 @@
 
 ## 📕 Latest Blog Posts
 
+- [My Producitiviy/Task System](https://blog.auryn.dev/posts/my-producitiviy-system/)
+- [Motivation vs Routine](https://blog.auryn.dev/posts/motivation-vs-routine/)
 - [One Bag Work Travel](https://blog.auryn.dev/posts/one-bag-work-travel/)
 - [Generative Art](https://blog.auryn.dev/posts/generative-art/)
 - [An Elm Compliments DApp with Gun.js](https://blog.auryn.dev/posts/elm-dapp-gun-js/)
