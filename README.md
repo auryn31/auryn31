@@ -6,6 +6,8 @@
 
 ## 📕 Latest Blog Posts
 
+- [Investing Weekly vs. Monthly: Which Strategy Wins?](https://blog.auryn.dev/posts/invest-weekly-or-monthly/)
+- [Build a ChatGPT Product](https://blog.auryn.dev/posts/build-a-chatgpt-product/)
 - [My Producitiviy/Task System](https://blog.auryn.dev/posts/my-producitiviy-system/)
 - [Motivation vs Routine](https://blog.auryn.dev/posts/motivation-vs-routine/)
 - [One Bag Work Travel](https://blog.auryn.dev/posts/one-bag-work-travel/)
@@ -13,7 +15,6 @@
 - [An Elm Compliments DApp with Gun.js](https://blog.auryn.dev/posts/elm-dapp-gun-js/)
 - [Elm AWS Cognito Login/Register Template with TypeScript](https://blog.auryn.dev/posts/elm-aws-cognito-template/)
 - [Why I love Elm](https://blog.auryn.dev/posts/starting-with-elm/)
-- [Yahoo Kotlin API on AWS](https://blog.auryn.dev/posts/kotlin-yahoo-api/)
 - [Stock Cli Tracker with Nodejs and Yahoo Finance](https://blog.auryn.dev/posts/stock-cli-tracker/)
 
 ➡️ [more blog posts...](https://blog.auryn.dev)
