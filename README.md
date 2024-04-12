@@ -4,18 +4,22 @@
 [![Website](https://img.shields.io/website?label=compliments.dapp.auryn.dev&style=for-the-badge&url=https%3A%2F%2Fcompliments.dapp.auryn.dev)](https://compliments.dapp.auryn.dev)
 [![Website](https://img.shields.io/website?label=aurynengel.com&style=for-the-badge&url=http%3A%2F%2Faurynengel.com)](http://aurynengel.com)
 
+## 📺 [YouTube Channel](youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1)
+
+- [DIY ESP32 Pomodoro Timer with code explanation](https://www.youtube.com/watch?v=i4x8xYaKlNE)
+- [Elixir Language Exploration: Code, Concepts, and Considerations](https://www.youtube.com/watch?v=Lqj4awwjwJo&ab_channel=AurynCodes)
+- [Critical Python Mistakes to Avoid in Your Code! 🐍](https://www.youtube.com/watch?v=tIgC0MxVLeg)
+
 ## 📕 Latest Blog Posts
 
+- [How to run Java 20 in Docker](https://blog.auryn.dev/posts/java-20-docker/)
+- [Authenticated Google Calendar API call in Java Spring Boot](https://blog.auryn.dev/posts/google-auth-java/)
+- [6 Month After Switching to Neovim](https://blog.auryn.dev/posts/6-month-after-switching-to-neovim/)
 - [Investing Weekly vs. Monthly: Which Strategy Wins?](https://blog.auryn.dev/posts/invest-weekly-or-monthly/)
 - [Build a ChatGPT Product](https://blog.auryn.dev/posts/build-a-chatgpt-product/)
 - [My Producitiviy/Task System](https://blog.auryn.dev/posts/my-producitiviy-system/)
 - [Motivation vs Routine](https://blog.auryn.dev/posts/motivation-vs-routine/)
 - [One Bag Work Travel](https://blog.auryn.dev/posts/one-bag-work-travel/)
-- [Generative Art](https://blog.auryn.dev/posts/generative-art/)
-- [An Elm Compliments DApp with Gun.js](https://blog.auryn.dev/posts/elm-dapp-gun-js/)
-- [Elm AWS Cognito Login/Register Template with TypeScript](https://blog.auryn.dev/posts/elm-aws-cognito-template/)
-- [Why I love Elm](https://blog.auryn.dev/posts/starting-with-elm/)
-- [Stock Cli Tracker with Nodejs and Yahoo Finance](https://blog.auryn.dev/posts/stock-cli-tracker/)
 
 ➡️ [more blog posts...](https://blog.auryn.dev)
 
