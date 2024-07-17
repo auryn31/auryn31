@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=blog.auryn.dev&style=for-the-badge&url=https%3A%2F%2Fblog.auryn.dev)](https://blog.auryn.dev)
 [![Website](https://img.shields.io/website?label=compliments.dapp.auryn.dev&style=for-the-badge&url=https%3A%2F%2Fcompliments.dapp.auryn.dev)](https://compliments.dapp.auryn.dev)
-[![Website]([https://img.shields.io/website?label=aurynengel.com&style=for-the-badge&url=http%3A%2F%2Faurynengel.com](https://img.shields.io/website?label=YouTube%20Auryn%20Codes&style=for-the-badge&url=https://youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1))](https://youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1)
+[![Website](https://img.shields.io/website?label=YouTube%20Auryn%20Codes&style=for-the-badge&url=https://youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1)](https://youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1)
 
 ## 📺 [YouTube Channel](youtube.com/channel/UChk4F4yBtP4i063wnJH8TIQ?sub_confirmation=1)
 
